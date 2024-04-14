@@ -1,0 +1,14 @@
+C:\Users\Windows 10\Documents\202401\PracticasNetAngular\NetLinq\bin\Debug\net7.0\NetLinq.exe
+C:\Users\Windows 10\Documents\202401\PracticasNetAngular\NetLinq\bin\Debug\net7.0\NetLinq.deps.json
+C:\Users\Windows 10\Documents\202401\PracticasNetAngular\NetLinq\bin\Debug\net7.0\NetLinq.runtimeconfig.json
+C:\Users\Windows 10\Documents\202401\PracticasNetAngular\NetLinq\bin\Debug\net7.0\NetLinq.dll
+C:\Users\Windows 10\Documents\202401\PracticasNetAngular\NetLinq\bin\Debug\net7.0\NetLinq.pdb
+C:\Users\Windows 10\Documents\202401\PracticasNetAngular\NetLinq\obj\Debug\net7.0\NetLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\Documents\202401\PracticasNetAngular\NetLinq\obj\Debug\net7.0\NetLinq.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Documents\202401\PracticasNetAngular\NetLinq\obj\Debug\net7.0\NetLinq.AssemblyInfo.cs
+C:\Users\Windows 10\Documents\202401\PracticasNetAngular\NetLinq\obj\Debug\net7.0\NetLinq.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Documents\202401\PracticasNetAngular\NetLinq\obj\Debug\net7.0\NetLinq.dll
+C:\Users\Windows 10\Documents\202401\PracticasNetAngular\NetLinq\obj\Debug\net7.0\refint\NetLinq.dll
+C:\Users\Windows 10\Documents\202401\PracticasNetAngular\NetLinq\obj\Debug\net7.0\NetLinq.pdb
+C:\Users\Windows 10\Documents\202401\PracticasNetAngular\NetLinq\obj\Debug\net7.0\NetLinq.genruntimeconfig.cache
+C:\Users\Windows 10\Documents\202401\PracticasNetAngular\NetLinq\obj\Debug\net7.0\ref\NetLinq.dll
